@@ -36,6 +36,28 @@ namespace ClinicQ
         }
     }
 }
-//Note: Leave notes like this.
-//TODO: Mark things that still need to be done like this.
-//Note: Mark problems you encounter like this: //!an error occurs when... 
+//TEAM NOTES:
+//
+//Leave notes like this: //Note:
+//Note: Mark things that still need to be done like this: //TODO: 
+//Note: Mark problems you encounter like this: //!an error occurs when...
+//Note: Instead of deleting code that someone else wrote, comment it out, 
+//it might be usefull later on and it gives that person a reference point as to how the code works afterwards. 
+//
+//TODO:
+//
+//TODO: make a queue that stores the people at a clinic's position.
+//TODO: find a way to make the queue fair. if someone was a the queue the day before, they have higher 
+//precedence than someone who just got there, but if a person was there the previous day but only arrives in the
+//middle of today they should be placed in the middle of the queue. Something like that, we will need to think of 
+//an algorithim.
+//TODO: Make the app look professional.
+//TODO: add animation(jackson your department.)
+//TODO: make the app user friendly. It should not interfere with the working of the clinic.
+//
+//Note:
+//
+//Note: I think we should make the app work like taking a number, when a patient enters the clinic, they should 
+//give their name and be given a place in the queue.
+//
+//! 
