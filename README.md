@@ -1,4 +1,6 @@
-ClinicQ
-=======
+ClinicQ floret-branch
+=====================
 
-a app to help people going to a clinic by making queues more effective.
+This is a branch I'm going to maintain in parallel with the master branch to try things out on so that I don't accidentally break something.
+
+
