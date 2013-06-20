@@ -1,6 +1,6 @@
-ClinicQ
-=======
+ClinicQ floret-branch
+=====================
 
-This is where the readme will go. 
+This is a branch I'm going to maintain in parallel with the master branch to try things out on so that I don't accidentally break something.
 
-For now check out https://github.com/cryptocat/cryptocat we could use this to comunicate while coding.
+
