@@ -7,6 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
+<<<<<<< HEAD
     <Grid Background="#FFC7D1D0">
         <ListBox x:Name="lbxPatientName" HorizontalAlignment="Left" Height="467" Margin="46,128,0,0" VerticalAlignment="Top" Width="507"/>
         <Button x:Name="btnAddPatient" Content="Add Patient" HorizontalAlignment="Left" Margin="1096,128,0,0" VerticalAlignment="Top" Height="50" Width="150" Foreground="#FF0A4144" BorderBrush="#FF0A4144" Click="btnAddPatient_Click"/>
@@ -17,6 +18,9 @@
         <TextBlock x:Name="lblName" HorizontalAlignment="Left" Margin="46,109,0,0" TextWrapping="Wrap" Text="Patient Name" VerticalAlignment="Top" FontSize="16" Foreground="#FFAE0808"/>
         <TextBlock x:Name="lblNumber" HorizontalAlignment="Left" Margin="548,104,0,0" TextWrapping="Wrap" Text="Phone Number" VerticalAlignment="Top" FontSize="16" Foreground="#FFAE0808"/>
         <TextBlock x:Name="lblAddress" HorizontalAlignment="Left" Margin="837,104,0,0" TextWrapping="Wrap" Text="Address" VerticalAlignment="Top" FontSize="16" Foreground="#FFAE0808"/>
+=======
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+>>>>>>> bb7eca6f075578f8b205a10cbf37a9a5dc71b2f0
 
     </Grid>
 </Page>

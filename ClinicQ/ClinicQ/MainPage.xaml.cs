@@ -11,7 +11,10 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+<<<<<<< HEAD
 using Windows.UI.Popups;
+=======
+>>>>>>> bb7eca6f075578f8b205a10cbf37a9a5dc71b2f0
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -27,10 +30,13 @@ namespace ClinicQ
             this.InitializeComponent();
         }
 
+<<<<<<< HEAD
         Queue<string> QPatientName = new Queue<string>();//queue for storing patient names in.
         Queue<string> QPhoneNumber = new Queue<string>();
         Queue<string> QAddress = new Queue<string>();
 
+=======
+>>>>>>> bb7eca6f075578f8b205a10cbf37a9a5dc71b2f0
         /// <summary>
         /// Invoked when this page is about to be displayed in a Frame.
         /// </summary>
@@ -39,6 +45,7 @@ namespace ClinicQ
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
         }
+<<<<<<< HEAD
 
         /// <summary>
         /// Clicking this button removes the patient at the head of the queue and 
@@ -80,6 +87,8 @@ namespace ClinicQ
             //patient button with field for the user to fill their details in
             this.Frame.Navigate(typeof(PageDetails));                        
         }
+=======
+>>>>>>> bb7eca6f075578f8b205a10cbf37a9a5dc71b2f0
     }
 }
 //TEAM NOTES:
@@ -97,7 +106,10 @@ namespace ClinicQ
 //precedence than someone who just got there, but if a person was there the previous day but only arrives in the
 //middle of today they should be placed in the middle of the queue. Something like that, we will need to think of 
 //an algorithim.
+<<<<<<< HEAD
 //TODO: Make a form where patient details can be filled in as easily as possible.
+=======
+>>>>>>> bb7eca6f075578f8b205a10cbf37a9a5dc71b2f0
 //TODO: Make the app look professional.
 //TODO: add animation(jackson your department.)
 //TODO: make the app user friendly. It should not interfere with the working of the clinic.
